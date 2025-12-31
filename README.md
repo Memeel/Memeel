@@ -5,7 +5,7 @@ Hi there! I'm currently a Software Engineering Student at **IMT Atlantique** (Br
 Coming from a strong background in **Mathematics and Physics**, I found my passion in Computer Science. I am now focused on deepening my expertise in **Software Development** and **Artificial Intelligence**.
 
 🎨 **Code & Creativity:**
-I love expressing myself through drawing, painting, and dancing. I believe software engineering is also an art form which require structure, creativity, and elegance.
+I love expressing myself through drawing, painting, and dancing. I believe software engineering is also an art form that requires structure, creativity, and elegance.
 
 🌱 **I am looking for a Software Engineering Internship (Starting Apr. 2026).**
 
